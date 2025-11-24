@@ -1,0 +1,113 @@
+Category,Question,Correct,Incorrect1,Incorrect2,Incorrect3
+Acids and Bases,What is the pH of a neutral solution?,7,0,14
+Acids and Bases,Which of these is a strong acid?,HCl,H2O,NaOH
+Acids and Bases,Which is a weak base?,NH3,NaOH,KOH
+Acids and Bases,Which indicator turns red in acidic solution?,Methyl Orange,Litmus,Bromothymol Blue
+Acids and Bases,Which acid is present in vinegar?,Acetic acid,HCl,H2SO4
+Acids and Bases,What is the formula of a hydroxide ion?,OH-,H+,O2-
+Acids and Bases,Which base is commonly used in soap?,NaOH,HCl,H2SO4
+Atomic Structure,Who proposed the planetary model of the atom?,Bohr,Rutherford,Thomson
+Atomic Structure,What is the charge of an electron?,-1,+1,0
+Atomic Structure,Which particle is in the nucleus?,Proton,Electron,Neutron
+Atomic Structure,What is the mass number?,Sum of protons and neutrons,Number of electrons,Number of protons
+Atomic Structure,Which element has 2 electrons in its outer shell?,Helium,Oxygen,Carbon
+Atomic Structure,What is isotopes?,Atoms with same protons but different neutrons,Atoms with different protons,Atoms with different electrons
+Atomic Structure,Who discovered the electron?,Thomson,Rutherford,Bohr
+Bonding,What type of bond involves sharing electrons?,Covalent,Ionic,Metallic
+Bonding,Which bond forms between metals?,Metallic,Covalent,Ionic
+Bonding,Which bond forms between a metal and a non-metal?,Ionic,Covalent,Metallic
+Bonding,Which bond has the strongest bond energy?,Covalent,Ionic,Metallic
+Bonding,Which bond type is polar?,Covalent between different atoms,Metallic,Ionic
+Bonding,Which is an example of a molecule with hydrogen bonding?,H2O,NaCl,CO2
+Bonding,Which is a diatomic molecule?,O2,H2O,CO2
+Electro-chemistry,Which electrode is positively charged?,Anode,Cathode,Electrolyte
+Electro-chemistry,What is oxidation?,Loss of electrons,Gain of electrons,Loss of protons
+Electro-chemistry,What is reduction?,Gain of electrons,Loss of electrons,Gain of protons
+Electro-chemistry,Which solution conducts electricity?,Electrolyte,Distilled water,Oil
+Electro-chemistry,Which is used in electroplating?,Cathode,Anode,Electrolyte
+Electro-chemistry,Which metal is deposited at the cathode?,Copper,Zinc,Aluminum
+Electro-chemistry,Which reaction occurs at the anode?,Oxidation,Reduction,Neutralization
+Equilibrium,What is Le Chatelier's principle?,System shifts to counteract change,Reaction stops,Equilibrium disappears
+Equilibrium,Which is a dynamic equilibrium?,Forward and reverse rates equal,No reaction occurs,Reaction stops
+Equilibrium,What happens if concentration increases?,System shifts away,No change,System shifts randomly
+Equilibrium,What is Kc?,Equilibrium constant,Rate constant,Concentration ratio
+Equilibrium,Which factor affects equilibrium?,Temperature,Shape,Color
+Equilibrium,Which is exothermic?,Reaction releasing heat,Reaction absorbing heat,Reaction at equilibrium
+Equilibrium,Which is endothermic?,Reaction absorbing heat,Reaction releasing heat,Neutralization
+Formulas and equations,What is the formula for water?,H2O,H2O2,HO
+Formulas and equations,Which is a balanced equation?,2H2 + O2 → 2H2O,H2 + O2 → H2O,H2 + O → H2O
+Formulas and equations,Which represents combustion?,CH4 + 2O2 → CO2 + 2H2O,H2 + Cl2 → 2HCl,C + O2 → CO
+Formulas and equations,Which is the mole ratio in 2H2 + O2 → 2H2O?,2:1:2,1:1:1,2:2:1
+Formulas and equations,Which is a decomposition reaction?,2H2O → 2H2 + O2,2Na + Cl2 → 2NaCl,H2 + O2 → H2O
+Formulas and equations,Which is a single replacement reaction?,Zn + 2HCl → ZnCl2 + H2,Na + Cl2 → NaCl,H2 + O2 → H2O
+Formulas and equations,Which is double replacement?,AgNO3 + NaCl → AgCl + NaNO3,HCl + NaOH → NaCl + H2O,C + O2 → CO2
+Gases,Which law relates pressure and volume?,Boyle's Law,Charles' Law,Avogadro's Law
+Gases,Which gas law involves temperature and volume?,Charles' Law,Boyle's Law,Avogadro's Law
+Gases,Which law relates pressure, volume, and temperature?,Ideal Gas Law,Boyle's Law,Charles' Law
+Gases,What is standard temperature?,0°C,100°C,25°C
+Gases,Which gas has the smallest molar mass?,Hydrogen,Oxygen,Nitrogen
+Gases,What is the unit of pressure?,Pascal,Joule,Liter
+Gases,Which gas is used in balloons?,Helium,Oxygen,Carbon dioxide
+Intro Concepts,What is matter?,Anything that has mass and occupies space,Energy,Vacuum
+Intro Concepts,What is an element?,Substance made of one type of atom,Compound,Mixture
+Intro Concepts,Which is a compound?,H2O,O2,He
+Intro Concepts,Which is a mixture?,Air,H2O,O2
+Intro Concepts,What is the law of conservation of mass?,Mass cannot be created or destroyed,Energy is conserved,Matter changes form
+Intro Concepts,Which is a physical property?,Density,Reactivity,Flammability
+Intro Concepts,Which is a chemical property?,Reactivity,Density,Boiling point
+Kinetics,What affects reaction rate?,Concentration,Color,Shape
+Kinetics,Which is a catalyst?,Substance speeding reaction,Product,Reactant
+Kinetics,Which increases reaction rate?,Temperature decrease,Temperature decrease,Temperature increase
+Kinetics,Which is a slow reaction?,Rusting,Explosion,Combustion
+Kinetics,Which is a fast reaction?,Explosion,Rusting,Evaporation
+Kinetics,Which is measured in rate constant?,k,ΔG,T
+Kinetics,Which factor does not affect rate?,Color,Concentration,Temperature
+Laboratory,Which glassware is most precise?,Pipette,Beaker,Graduated cylinder
+Laboratory,Which is used to measure volume?,Graduated cylinder,Flask,Beaker
+Laboratory,Which indicates pH?,Litmus,Mortar,Bunsen burner
+Laboratory,Which heats chemicals?,Bunsen burner,Beaker,Volumetric flask
+Laboratory,Which prevents splashes?,Fume hood,Beaker,Test tube
+Laboratory,Which is used for mixing?,Stirring rod,Pipette,Volumetric flask
+Laboratory,Which is used for filtration?,Filter paper,Bunsen burner,Graduated cylinder
+Metals and Non-metals,Which is a metal?,Iron,Oxygen,Chlorine
+Metals and Non-metals,Which is a non-metal?,Oxygen,Iron,Sodium
+Metals and Non-metals,Which metal is liquid at room temp?,Mercury,Sodium,Chlorine
+Metals and Non-metals,Which non-metal conducts electricity?,Graphite,Oxygen,Helium
+Metals and Non-metals,Which is malleable?,Copper,Chlorine,Oxygen
+Metals and Non-metals,Which is brittle?,Sulfur,Aluminum,Iron
+Metals and Non-metals,Which reacts with acids?,Zinc,Oxygen,Neon
+Molecular Geometry,What is linear shape?,CO2,H2O,NH3
+Molecular Geometry,What is bent shape?,H2O,CO2,NH3
+Molecular Geometry,What is trigonal planar?,BF3,NH3,H2O
+Molecular Geometry,What is tetrahedral?,CH4,H2O,CO2
+Molecular Geometry,What is trigonal pyramidal?,NH3,CH4,H2O
+Molecular Geometry,What is octahedral?,SF6,CH4,H2O
+Molecular Geometry,What is seesaw?,SF4,CH4,H2O
+Redox,Which is oxidation?,Loss of electrons,Gain of electrons,Gaining protons
+Redox,Which is reduction?,Gain of electrons,Loss of electrons,Losing protons
+Redox,Which occurs at cathode?,Reduction,Oxidation,Neutralization
+Redox,Which occurs at anode?,Oxidation,Reduction,Neutralization
+Redox,Which is a redox reaction?,Zn + Cu2+ → Zn2+ + Cu,NaCl dissolution,H2O formation
+Redox,Which metal is oxidized?,Zinc,Copper,Silver
+Redox,Which metal is reduced?,Copper,Zinc,Iron
+Periodic Properties,Which element is in period 2?,Carbon,Sodium,Potassium
+Periodic Properties,Which element is a halogen?,Chlorine,Sodium,Oxygen
+Periodic Properties,Which element is a noble gas?,Neon,Chlorine,Sodium
+Periodic Properties,Which has highest electronegativity?,Fluorine,Francium,Oxygen
+Periodic Properties,Which has smallest atomic radius?,Helium,Cesium,Fluorine
+Periodic Properties,Which is most metallic?,Francium,Fluorine,Oxygen
+Periodic Properties,Which element is transition metal?,Iron,Neon,Chlorine
+Stoichiometry,How many moles in 18 g of water?,1,2,3
+Stoichiometry,How many grams in 1 mole of CO2?,44,18,22
+Stoichiometry,Which is limiting reagent?,Reactant that runs out first,Product,Excess reactant
+Stoichiometry,Which is excess reagent?,Reactant left over,Product,Limiting reagent
+Stoichiometry,Which is theoretical yield?,Maximum product,Actual product,Excess
+Stoichiometry,Which is actual yield?,Measured product,Theoretical,Excess
+Stoichiometry,Which is percent yield?,Actual/Theoretical ×100,Limiting/Excess,Product/Reactant
+Thermo-chemistry,Which reaction absorbs heat?,Endothermic,Exothermic,Neutral
+Thermo-chemistry,Which reaction releases heat?,Exothermic,Endothermic,Neutral
+Thermo-chemistry,Which unit measures energy?,Joule,Meter,Pascal
+Thermo-chemistry,Which is enthalpy change?,ΔH,ΔG,ΔS
+Thermo-chemistry,Which is entropy?,ΔS,ΔH,ΔG
+Thermo-chemistry,Which is Gibbs free energy?,ΔG,ΔH,ΔS
+Thermo-chemistry,Which predicts spontaneity?,ΔG,ΔH,ΔS
